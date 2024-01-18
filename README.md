@@ -8,7 +8,7 @@
 Я начинающий go разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с Школы Ciberone (2020), где я на протяжении 3 лет плотно изучал язык go. В данный момент в активном поиске вакансий.
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/MorgunAO) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:a.o.morgun@gmail.com)
