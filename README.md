@@ -1,21 +1,23 @@
 
-# Привет, меня зовут Андрей!
+# Hello!
 
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: About Me:
 
-Я начинающий go разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с Школы Ciberone (2020), где я на протяжении 3 лет плотно изучал язык go. В данный момент в активном поиске вакансий.
+I am a Golang backend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey into the world of IT began back in 2020, and it has been an exciting and challenging road ever since. Over the years, this path has not only shaped my career but has also significantly influenced my life, fueling my passion for technology and innovation.
+
+Currently, I am actively seeking new opportunities to bring my skills, experience, and enthusiasm to a forward-thinking team. I thrive on solving complex problems, embracing challenges, and contributing to impactful projects. I look forward to embarking on the next chapter of my professional journey, ready to deliver value and continue growing as a developer.
 
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-morgunandrey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/MorgunAO) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:a.o.morgun@gmail.com)
+- :mailbox: How to Contact Me: [![Telegram Badge](https://img.shields.io/badge/-morgunandrey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/MorgunAO) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:a.o.morgun@gmail.com)
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Social Media:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/andrey-morgun-992578279/" target="_blank">
@@ -28,7 +30,7 @@
 
 ---
 
-### 💻 Технологии:
+### 💻 Technologies:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -42,7 +44,7 @@
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="jetbrains" alt="jetbrains" width="40" height="40"/>&nbsp;
@@ -52,7 +54,7 @@
 
 ![codewars](https://www.codewars.com/users/andrey.morgun1029/badges/large)
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub statistic:
 
 <table>
   <tr>
